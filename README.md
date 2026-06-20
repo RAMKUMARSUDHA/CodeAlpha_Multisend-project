@@ -88,3 +88,7 @@ npx hardhat verify --network sepolia <deployed_contract_address>
   doesn't need to be deployed alongside `MultiSend`.
 - Any leftover wei from integer-division rounding stays in the contract and can be
   swept out by the owner via `withdrawDust()`.
+
+  ## 👤 Author
+
+**RAMKUMAR S**
